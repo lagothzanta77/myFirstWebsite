@@ -1,0 +1,67 @@
+body {
+  background-image: url('assets/background.jpg');
+  margin: 0%;
+  font-family: 'Courier Prime', monospace;
+  line-height: 2em;
+}
+
+header {
+    background-color: #333;
+    padding: 0 10%;
+    margin: auto;
+}
+
+img {
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 75px; 
+    float: left;
+}
+
+section {
+    clear: both;
+    padding: 0 10%;
+    margin-top: 10%;
+    margin-bottom: 0;
+}
+
+.interlude {
+    margin: 0;
+    letter-spacing:15px;
+}
+
+.welcome {
+    margin-bottom: 1.5%;
+}
+
+.define {  
+    margin-top: 2.5%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.purple, h3, nav a {
+    color: #f09;
+}
+
+nav {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    text-align:right;
+    text-transform:uppercase;
+    word-spacing:25px;
+    font-weight:bold;
+}
+
