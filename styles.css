@@ -1,6 +1,6 @@
 body {
   background-image: url('assets/background.jpg');
-  margin: 0%;
+  margin: 0;
   font-family: 'Courier Prime', monospace;
   line-height: 2em;
 }
@@ -28,11 +28,11 @@ section {
 
 .interlude {
     margin: 0;
-    letter-spacing:15px;
+    letter-spacing: 15px;
 }
 
 .welcome {
-    margin-bottom: 1.5%;
+    margin-bottom: 2.5%;
 }
 
 .define {  
@@ -59,9 +59,9 @@ nav {
     padding-top: 30px;
     padding-bottom: 30px;
     margin: auto;
-    text-align:right;
-    text-transform:uppercase;
-    word-spacing:25px;
-    font-weight:bold;
+    text-align: right;
+    text-transform: uppercase;
+    word-spacing: 25px;
+    font-weight: bold;
 }
 
